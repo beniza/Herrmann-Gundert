@@ -1,0 +1,8 @@
+= Sample doc
+:author: beniza
+
+:revnumber: 0.1
+:revdate: 20th May 2022
+:revremark: Draft Version
+
+This sample document is prepared by {author}. This is {revremark}-{revnumber} of the document
