@@ -1,0 +1,12 @@
+dist: focal
+
+sudo: required
+
+language: ruby
+
+rvm:
+ - 2.2
+ - jruby
+
+ script:
+  - sudo apt install -y asciidoctor
